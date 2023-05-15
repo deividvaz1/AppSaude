@@ -90,7 +90,7 @@ export function Notification() {
             marginTop: "50%",
           }}
         >
-          Não há notificações disponíveis! Acesse o nosso site:                                                        
+          Não há notificações disponíveis! Acesse o nosso site:                        https://web-notification-phi.vercel.app/                                                   
         </Text>
       ) : (
         notifications.map((notification) => (
