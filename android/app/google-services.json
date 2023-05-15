@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377047844114",
+    "project_id": "saudeapp-93c9f",
+    "storage_bucket": "saudeapp-93c9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377047844114:android:4ed3f2c4a784328c171fcb",
+        "android_client_info": {
+          "package_name": "com.saudeapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377047844114-ibpo7dna00fjtt4qkbndb4ni2hrv9p0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrbXIyaovy1ZsOy8I3xWF9rbJXhmZtVdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377047844114-ibpo7dna00fjtt4qkbndb4ni2hrv9p0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
