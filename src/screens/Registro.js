@@ -222,8 +222,8 @@ export default function Registro({ navigation }) {
                 }
               />
               <Image
-                source={require("../assets/app_sim_saude.png")}
-                style={{ width: 300, height: 250 }}
+                source={require("../assets/app_saude.png")}
+                style={{ width: 190, height: 190 }}
                 alt="Alternate Text"
               />
             </Box>

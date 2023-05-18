@@ -135,7 +135,7 @@ export default function HomePage({ navigation }) {
       navlink: "EmContrucao",
     },
     {
-      name: "PAMES",
+      name: "PLUS",
       iconFamily: MaterialCommunityIcons,
       icon: "heart-plus",
       navlink: "EmContrucao",

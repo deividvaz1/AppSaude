@@ -10,7 +10,7 @@ export default [
     { name: "Renovação de Estudante", iconFamily: FontAwesome5, icon: 'user-graduate', navlink: 'EmContrucao' },
     { name: "Imposto de Renda", iconFamily: FontAwesome5, icon: 'clipboard-list', navlink: 'EmContrucao' },
     { name: "PAC", iconFamily: Ionicons, icon: 'people-sharp', navlink: 'EmContrucao' },
-    { name: "PAMES", iconFamily: MaterialCommunityIcons, icon: 'heart-plus', navlink: 'EmContrucao' },
+    { name: "PLUS", iconFamily: MaterialCommunityIcons, icon: 'heart-plus', navlink: 'EmContrucao' },
     { name: "Habilitação de Dependentes", iconFamily: FontAwesome5, icon: 'user-plus', navlink: 'HabilitacaoDependentes', iconSize: 6, headingSize: 13, aspectRatio: 1.2 },
     { name: "Optante/Licenciado", iconFamily: FontAwesome5, icon: 'user-alt', iconSize: 6, navlink: 'EmContrucao' },
     { name: "Comunicado de Óbito", iconFamily: MaterialCommunityIcons, icon: 'coffin', navlink: 'EmContrucao' },
