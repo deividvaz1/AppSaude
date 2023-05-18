@@ -35,17 +35,3 @@ Criar local.properties na pasta android:  sdk.dir=C:\\Users\\SEU_USUÁRIO\\appDa
 ## Build Preview
 Para criar a preview pelo EAS precisei remover "org.gradle.java.home=C:\\Program Files\\Java\\jdk-19" da última linha de código do arquivo gradle.properties!
 Caso isso corrompa o funcionamento futuro, basta reescrever no arquivo android.
-
-## O que falta?
-
-Atualizamos as cores e o app funciona sem conectar as APIs!
-- [x] logo
-- [x] Android Manifest
-- [x] Imagens/Assets
-- [X] Verificar Cores
-- [x] Adicionar alterações no usuário no FB
-- [x] Código do IPE notificações
-- [x] Criar usuário e mensagens
-- [x] Expo go e o project ID
-- [x] Firebase
-- [x] Confirmar se a mensagem em background funciona no apk!!
