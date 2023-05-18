@@ -44,7 +44,6 @@ Atualizamos as cores e o app funciona sem conectar as APIs!
 - [x] Imagens/Assets
 - [X] Verificar Cores
 - [x] Adicionar alterações no usuário no FB
-- [x] Código do João em node para pegar o token
 - [x] Código do IPE notificações
 - [x] Criar usuário e mensagens
 - [x] Expo go e o project ID
